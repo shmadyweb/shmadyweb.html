@@ -1,0 +1,38 @@
+﻿{
+  "name": "Shmady Web",
+  "short_name": "Shmady Web",
+  "start_url": "https://shmadyweb.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "icons": [{
+    "src": "https://2.bp.blogspot.com/-J7iUR22ouiY/XVA0FiDOMLI/AAAAAAAADe8/LrT_e4lDAvMxbA_yymWWUGC1NJmYDFGpgCLcBGAs/s48/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-umwCB_Pzs3Y/XVA0TzCqIvI/AAAAAAAADfA/RNLgaZYdrxEk75OT0W7_F3J4ZxljzgmEACLcBGAs/s72/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-JMk8uS_ADwg/XVA0h4RNrfI/AAAAAAAADfI/iEbC0FSrPyw-RbAIrF4RAvrlufr7pbr5QCLcBGAs/s96/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-RfDI02I4kYc/XVAcexel5OI/AAAAAAAADeA/LSGPazx4krEuYuu0-SBK_JBQ-WQBwK1qgCLcBGAs/s144/apple-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-LxKZgTTMjp4/XVA1LRBVphI/AAAAAAAADfQ/AquCjV5w8C8AC-BC3zel1-P3IQDRZXZWgCLcBGAs/s168/ShmadyWeb3.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-AErx7SfQ9Fs/XVAb3NOOCmI/AAAAAAAADdw/puge4b4ZXQo0Qw8OU4tk2DLHhVVY3BCawCLcBGAs/s192/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-k8JqPExqRLY/XVAzrI0i6DI/AAAAAAAADe0/HKM_eDXmqoUv9a4E3Cs4fPg37fLP6z5VgCLcBGAs/s512/ShmadyWeb2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
